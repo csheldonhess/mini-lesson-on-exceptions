@@ -1,7 +1,7 @@
 # Mini-lesson on Exceptions in Python
 Just a short (30 min) peer lesson on exceptions in Python, for CIT-129
 
-*What's in this repository:*
+**What's in this repository:**
 * A PDF (text-searchable) with some quick hints/how to use exceptions
 * The same PDF set up to print twice per page to save paper (not text-searchable)
 * A Jupyter notebook with demonstration code
