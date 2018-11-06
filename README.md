@@ -25,3 +25,5 @@ If you don't want to work on your API project again for some reason&mdash;you bu
 * Apparently I'm into Jeff Knupp's explanations of these things, so here's his article on [The With Statement and Context Managers](https://jeffknupp.com/blog/2016/03/07/improve-your-python-the-with-statement-and-context-managers/)
 
 * Obviously, chapter 33 of Lutz's _Learning Python_, as mentioned in the assignment 😁
+
+* [Python's built-in exceptions list](https://docs.python.org/3/library/exceptions.html)
