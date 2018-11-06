@@ -14,4 +14,6 @@ Just a short (30 min) peer lesson on exceptions in Python, for CIT-129
 * His examples are in Ruby, and his writing uses gendered language, but this is otherwise a fairly readable description of when exceptions are most appropriate, in general (rather than in Python):
 [Coding Hell's How and When (Not) to Use Exceptions](http://www.codinghell.ch/blog/2013/03/31/how-and-when-not-to-use-exceptions/)
 
+* Apparently I'm into Jeff Knupp's explanations of these things, so here's his article on [The With Statement and Context Managers](https://jeffknupp.com/blog/2016/03/07/improve-your-python-the-with-statement-and-context-managers/)
+
 * Obviously, chapter 33 of Lutz's _Learning Python_, as mentioned in the assignment 😁
